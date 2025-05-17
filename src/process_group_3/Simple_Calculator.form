@@ -179,6 +179,9 @@
       <Properties>
         <Property name="text" type="java.lang.String" value="10. Di&#x1ec7;n t&#xed;ch h&#xec;nh tr&#xf2;n"/>
       </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton10ActionPerformed"/>
+      </Events>
     </Component>
   </SubComponents>
 </Form>
