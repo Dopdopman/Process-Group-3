@@ -108,8 +108,7 @@ public class Plus extends javax.swing.JFrame {
             
         } catch (NumberFormatException e) {
             jTextField3.setText("Lỗi định dạng");
-        }
-    }                  
+        }                  
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
